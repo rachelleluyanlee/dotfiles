@@ -87,11 +87,14 @@ xnoremap p "_dP"
 xnoremap <  <gv
 xnoremap >  >gv
 
-" filetype plugin on
+" Enable plugins
+filetype plugin on
+
+" List of Plugins
+" NerdCommenter
 " call plug#begin('~/.vim/plugged')
 " Plug 'scrooloose/nerdtree'    " Project folder browser
 " Plug 'scrooloose/syntastic' " Syntax checking
-" Plug 'scrooloose/nerdcommenter' " Better commenting
 " Plug 'Raimondi/delimitMate'   " Automatic parenthesis 
 " Plug 'pangloss/vim-javascript' " JavaScript syntax highlighting
 " Plug 'sheerun/vim-polyglot'
