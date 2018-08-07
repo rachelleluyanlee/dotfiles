@@ -55,7 +55,7 @@ hi PreCondit guifg=#c25643 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NO
 hi Include guifg=#c25643 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 hi Float guifg=#e66450 guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 hi StatusLineNC guifg=#9f9385 guibg=#444444 guisp=#444444 gui=NONE ctermfg=144 ctermbg=238 cterm=NONE
-hi NonText guifg=#9a9a9a guibg=#110e0c guisp=#110e0c gui=NONE ctermfg=247 ctermbg=236 cterm=NONE
+hi NonText guifg=#d9d9d9 guibg=#110e0c guisp=#110e0c gui=NONE ctermfg=253 ctermbg=234 cterm=NONE
 hi DiffText guifg=NONE guibg=#575757 guisp=#575757 gui=NONE ctermfg=NONE ctermbg=240 cterm=NONE
 hi Debug guifg=#f0ffe2 guibg=NONE guisp=NONE gui=NONE ctermfg=194 ctermbg=NONE cterm=NONE
 hi PMenuSbar guifg=NONE guibg=#000000 guisp=#000000 gui=NONE ctermfg=NONE ctermbg=NONE cterm=NONE
