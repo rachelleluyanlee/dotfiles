@@ -22,4 +22,10 @@ git rm vim/pack/shapeshed/start/exampleplugin
 rm -Rf .git/modules/vim/pack/shapeshed/start/exampleplugin
 git commit
 ```
+# TODOs
+- Make cheatsheets
+
+### vim
+- Fix .vimrc
+- Change cursor when in insert mode
 
