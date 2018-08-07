@@ -27,5 +27,4 @@ git commit
 
 ### vim
 - Fix .vimrc
-- Change cursor when in insert mode
 
