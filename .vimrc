@@ -19,6 +19,7 @@ set wrapmargin=1                        " Wrap when close to right border window
 set softtabstop=4                       " Set tab width to 4
 set shiftwidth=4                        " Set >> and << indenting to 4
 set expandtab                           " Convert tabs to spaces
+set autoindent
 set clipboard=unnamed                   " Use system clipbaord
 set splitbelow                          " Splits open downward
 set splitright                          " Or open rightward
